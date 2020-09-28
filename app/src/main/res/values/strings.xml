@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Practica1-ISC581</string>
+    <string name="name">Digite un nombre...</string>
+    <string name="last_name">Digite un apellido...</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenina</string>
+    <string name="gender">Genero:</string>
+    <string name="programmer">Le gusta programar?</string>
+    <string name="language">Lenguaje:</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="birth">Nacimiento:</string>
+    <string name="send_button">Enviar</string>
+    <string name="clear_button">Limpiar</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="javascript">JS</string>
+    <string name="go">Go Land</string>
+    <string name="cc">C/C++</string>
+    <string name="c_sharp">C#</string>
+
+    <string-array name="genders">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
